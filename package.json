@@ -1,6 +1,7 @@
 {
   "name": "terracecat",
   "displayName": "TerraceCat",
+  "publisher": "Daiki",
   "description": "Dark color theme for vscode",
   "version": "0.0.1",
   "engines": {
