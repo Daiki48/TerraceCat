@@ -2,14 +2,28 @@
   "name": "terracecat",
   "displayName": "TerraceCat",
   "publisher": "Daiki",
+  "author": {
+    "name": "Daiki Nakashima"
+  },
   "description": "Dark color theme for vscode",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "engines": {
     "vscode": "^1.74.0"
   },
+  "icon": "icon/TerraceCat.png",
   "categories": [
     "Themes"
   ],
+  "keywords": [
+    "terracecat",
+    "dark theme",
+    "color-theme",
+    "dark",
+    "theme"
+  ],
+  "bugs": {
+    "url": "https://github.com/Daiki48/TerraceCat/issues"
+  },
   "contributes": {
     "themes": [
       {
