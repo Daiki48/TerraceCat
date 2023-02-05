@@ -11,11 +11,7 @@ Mainly warm colors that are easy on the eyes.
 
 # Screenshot
 
-## Menu
-
 [<img src="./screenshot/v0.2.0/terracecat-menu.png" />](https://marketplace.visualstudio.com/items?itemName=Daiki.terracecat)
-
-## Javascript
 
 [<img src="./screenshot/v0.2.0/terracecat-javascript.png" />](https://marketplace.visualstudio.com/items?itemName=Daiki.terracecat)
 
