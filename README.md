@@ -1,6 +1,6 @@
 # TerraceCat
 
-Dark base color theme for vscode.
+Blue base color theme for vscode.
 
 Mainly warm colors that are easy on the eyes.
 
@@ -11,20 +11,18 @@ Mainly warm colors that are easy on the eyes.
 
 # Screenshot
 
-It is stored in the github screenshot directory.
-
 ## Menu
 
-[<img src="./screenshot/terracecat-menu.png" />](https://marketplace.visualstudio.com/items?itemName=Daiki.terracecat)
+[<img src="./screenshot/v0.2.0/terracecat-menu.png" />](https://marketplace.visualstudio.com/items?itemName=Daiki.terracecat)
 
 ## Javascript
 
-[<img src="./screenshot/terracecat-javascript.png" />](https://marketplace.visualstudio.com/items?itemName=Daiki.terracecat)
-
-## Rust
-
-[<img src="./screenshot/terracecat-rust.png" />](https://marketplace.visualstudio.com/items?itemName=Daiki.terracecat)
+[<img src="./screenshot/v0.2.0/terracecat-javascript.png" />](https://marketplace.visualstudio.com/items?itemName=Daiki.terracecat)
 
 # Author
 
 Daiki Nakashima
+
+# LICENSE
+
+MIT
