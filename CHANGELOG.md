@@ -1,9 +1,5 @@
 # Change Log
 
-All notable changes to the "terracecat" extension will be documented in this file.
+Information on each version is summarized below. Please take a look :)
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
-
-## [Unreleased]
-
-- Initial release
+https://github.com/Daiki48/TerraceCat/tree/main/release-note
